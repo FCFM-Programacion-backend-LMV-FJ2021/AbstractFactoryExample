@@ -1,0 +1,20 @@
+C:\Users\axn6924\source\repos\FornitureFactory\FornitureFactory\bin\Debug\FornitureFactory.exe.config
+C:\Users\axn6924\source\repos\FornitureFactory\FornitureFactory\bin\Debug\FornitureFactory.exe
+C:\Users\axn6924\source\repos\FornitureFactory\FornitureFactory\bin\Debug\FornitureFactory.pdb
+C:\Users\axn6924\source\repos\FornitureFactory\FornitureFactory\obj\Debug\FornitureFactory.csprojAssemblyReference.cache
+C:\Users\axn6924\source\repos\FornitureFactory\FornitureFactory\obj\Debug\FornitureFactory.exe
+C:\Users\axn6924\source\repos\FornitureFactory\FornitureFactory\obj\Debug\FornitureFactory.pdb
+C:\Users\Rolando\Downloads\Forniture Abstract Factory\FornitureFactory\bin\Debug\FornitureFactory.exe.config
+C:\Users\Rolando\Downloads\Forniture Abstract Factory\FornitureFactory\bin\Debug\FornitureFactory.exe
+C:\Users\Rolando\Downloads\Forniture Abstract Factory\FornitureFactory\bin\Debug\FornitureFactory.pdb
+C:\Users\Rolando\Downloads\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.csprojAssemblyReference.cache
+C:\Users\Rolando\Downloads\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Downloads\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.exe
+C:\Users\Rolando\Downloads\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.pdb
+C:\Users\Rolando\Downloads\OLD\Forniture Abstract Factory\FornitureFactory\bin\Debug\FornitureFactory.exe.config
+C:\Users\Rolando\Downloads\OLD\Forniture Abstract Factory\FornitureFactory\bin\Debug\FornitureFactory.exe
+C:\Users\Rolando\Downloads\OLD\Forniture Abstract Factory\FornitureFactory\bin\Debug\FornitureFactory.pdb
+C:\Users\Rolando\Downloads\OLD\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.csprojAssemblyReference.cache
+C:\Users\Rolando\Downloads\OLD\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Downloads\OLD\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.exe
+C:\Users\Rolando\Downloads\OLD\Forniture Abstract Factory\FornitureFactory\obj\Debug\FornitureFactory.pdb
